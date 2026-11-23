@@ -1,6 +1,8 @@
 ## First-year-coding
 
-# Hello, I'm Angel Soto and I am currently studying computer science @USF
+# Angel Soto | Computer Science @USF
+
+Hello, I'm Angel Soto and I am currently studying computer science @USF
 
 This repository will eventually contain my first year's coding projects and showcase my progression throughout the year.
 
